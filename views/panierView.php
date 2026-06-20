@@ -64,3 +64,4 @@ foreach($panier as $item){ $total += $item['prix'] * $item['quantite']; }
     <?php endif; ?>
 </div>
 </section>
+// Page Panier - Developpee par Rama Yade - L3 IDA UNCHK Groupe 67 2025
