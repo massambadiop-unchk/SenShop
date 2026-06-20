@@ -22,4 +22,6 @@ if(isset($_POST["commander"])){
         $type    = "danger";
     }
 }
+    // Controller Commande - Meissa Ismaila Top - L3 IDA UNCHK Groupe 67 2025
+→ Message de commit à écrire :
 require_once("views/commandeView.php");
