@@ -7,3 +7,4 @@ if(isset($_GET["delete"])){
 }
 $commandes = getAllCommandes();
 require_once("views/admincommande.php");
+// Controller Admin Commandes - Thierno Souleymane Diallo - L3 IDA UNCHK Groupe 67 2025
