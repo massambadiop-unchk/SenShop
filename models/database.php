@@ -270,3 +270,5 @@ function deleteMessage($id){
         die("Erreur : ".$th->getMessage());
     }
 }
+/ /   B a s e   d e   d o n n e e s   -   T o u t e s   l e s   f o n c t i o n s   S Q L   -   M a s s a m b a   D i o p  
+ 
