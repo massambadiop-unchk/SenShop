@@ -21,7 +21,7 @@
                         Contactez
                         <span>SenShop</span>
                     </h1>
-
+// Page Contact - Developpee par Meissa Ismaila Top - L3 IDA UNCHK Groupe 67 2025
                     <p>
                         Une équipe disponible
                         pour vous accompagner.
