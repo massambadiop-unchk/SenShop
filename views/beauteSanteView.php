@@ -489,4 +489,5 @@ BOTTOM BANNER
     </div>
 
 </section>
+// Page Beaute et Sante - Developpee par Thierno Souleymane Diallo - L3 IDA UNCHK Groupe 67 2025
   
