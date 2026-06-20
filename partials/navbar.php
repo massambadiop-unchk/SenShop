@@ -181,3 +181,4 @@ BARRE DE NAVIGATION
     </div>
 
 </nav>
+// Navbar publique - Marie Sow Thiam - L3 IDA UNCHK Groupe 67 2025
