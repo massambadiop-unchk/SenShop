@@ -19,3 +19,4 @@ if(isset($_POST["ajouter"])){
 }
 
 require_once("views/registerView.php");
+// Controller Inscription - Mane Sall - L3 IDA UNCHK Groupe 67 2025
