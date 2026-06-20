@@ -261,3 +261,4 @@ document.querySelectorAll('.ss-alert-close').forEach(button => {
 });
 
 </script>
+// Page Inscription - Developpee par Mane Sall - L3 IDA UNCHK Groupe 67 2025
