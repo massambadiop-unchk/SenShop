@@ -49,3 +49,4 @@ if(isset($_GET['vider'])){
 }
 
 require_once("views/panierView.php");
+// Controller Panier - Rama Yade - L3 IDA UNCHK Groupe 67 2025
