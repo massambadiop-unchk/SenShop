@@ -220,3 +220,4 @@ document.querySelectorAll('.ss-alert-close').forEach(button => {
 });
 
 </script>
+// Page Connexion - Developpee par Marie Sow Thiam - L3 IDA UNCHK Groupe 67 2025
