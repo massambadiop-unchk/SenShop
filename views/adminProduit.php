@@ -194,4 +194,8 @@
     </div>
 
 </div>
+<!-- Admin Produits - Fatou Badji
 
+     Gestion CRUD des produits
+
+     L3 IDA UNCHK - Groupe 67 - 2025 -->
