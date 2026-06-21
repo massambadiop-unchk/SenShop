@@ -173,3 +173,9 @@
     </div>
 
 </div>
+<!-- Admin Clients/Messages - Developpe par Fatoumata Sene
+
+     Affichage et suppression des messages clients
+
+     L3 IDA UNCHK - Groupe 67 - 2025 -->
+
