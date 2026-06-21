@@ -141,4 +141,8 @@
     </section>
 
   </main>
- 
+ <!-- Dashboard Admin - Developpe par Fatou Badji
+
+     Affichage dynamique des commandes et produits recents
+
+     L3 IDA UNCHK - Groupe 67 - 2025 -->
