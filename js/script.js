@@ -603,3 +603,4 @@ window.addEventListener("keydown", (e) => {
     }
 
 });
+// Script JS principal - Rama Yade - L3 IDA UNCHK Groupe 67 2025
