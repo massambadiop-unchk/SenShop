@@ -32,3 +32,5 @@ if(isset($_POST["ajouter"])){
 require_once("views/ajoutcategorie.php");
 
 ?>
+// Controller Ajout Categorie - Fatoumata Sene - L3 IDA UNCHK Groupe 67 2025
+
