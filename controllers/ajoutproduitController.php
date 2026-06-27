@@ -87,3 +87,4 @@ if(isset($_POST["ajouter"])){
 
 
 require_once("views/ajoutProduit.php");
+// Controller Ajout Produit - Fatou Badji - L3 IDA UNCHK Groupe 67 2025
