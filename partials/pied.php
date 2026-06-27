@@ -90,3 +90,4 @@ FOOTER
     </body>
 
     </html>
+<!-- Pied de page - Rama Yade - L3 IDA UNCHK Groupe 67 2025 -->
