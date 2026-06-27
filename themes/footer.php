@@ -21,3 +21,4 @@
   </script>
 </body>
 </html>
+<!-- Footer Admin - Fatou Badji - L3 IDA UNCHK Groupe 67 2025 -->
