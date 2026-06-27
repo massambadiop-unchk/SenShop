@@ -29,4 +29,4 @@ INDEX.HTML - SENSHOP COMPLET
 
 <body>
     <?php include_once("partials/navbar.php"); ?>
-    
+    <!-- Entete HTML - Marie Sow Thiam - L3 IDA UNCHK Groupe 67 2025 -->
