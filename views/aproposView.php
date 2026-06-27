@@ -613,3 +613,4 @@ BOTTOM CTA
 
    <!-- =====================================================
 FOOTER
+<!-- Page A propos - Mane Sall - L3 IDA UNCHK Groupe 67 2025 -->
