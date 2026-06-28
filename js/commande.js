@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
     function formatPrice(price){
 
         return price.toLocaleString('fr-FR') + ' FCFA';
+// JS Page Commande - Meissa Ismaila Top - L3 IDA UNCHK Groupe 67 2025
 
     }
 
