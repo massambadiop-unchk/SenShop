@@ -7,3 +7,4 @@ if(isset($_GET["delete"])){
 }
 $messages = getAllMessages();
 require_once("views/adminClient.php");
+// Controller Admin Client - Thierno Souleymane Diallo - L3 IDA UNCHK Groupe 67 2025
