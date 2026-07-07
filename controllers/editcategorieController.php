@@ -21,3 +21,4 @@ if (isset($_POST["modifier"])) {
     }
 }
 require_once("views/editCategorie.php");
+// Controller Edit Categorie - Sileymane Ousmane Ly - L3 IDA UNCHK Groupe 67 2025
